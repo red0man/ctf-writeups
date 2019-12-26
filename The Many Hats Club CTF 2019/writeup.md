@@ -183,7 +183,7 @@ It worked, we got the flag! TMHC{1_kn0w_d35cr1pt1v3_n0t4t10n}
 
 ## HelpSomeoneIsTryingToBeMe
 
-This OSINT challenge is an easy one. The concept of the challenge is looking into messages sent in collaboration platforms. It ends with decoding a Estoteric language to get the flag.
+This OSINT challenge is an easy one. The concept of the challenge is looking into messages sent in collaboration platforms. It ends with decoding a Esoteric language to get the flag.
 
 # The Challenge:
 
@@ -244,11 +244,11 @@ java garlicbread garlicCipherText.gbread result.txt
 
 ![](writeupfiles/osint8.png)
 
-Saving the output to result.txt, I run the java program on result.txt:
+Saving the output to result.txt, and reading the contents of result.txt:
 
 ![](writeupfiles/osint9.png)
 
-And I can get the flag:
+I can get the flag:
 
 ```
 TMHC{Y0u_F0uNd_My_S3cR3t_1ts_StU}
